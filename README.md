@@ -18,4 +18,4 @@ Potrebno je napraviti stranicu koja zadovoljava sljedeće uvjete:
 
 This is a web page about Brazilian footbal club Atletico Mineiro. The firt page is atleticoMineiro. 
 Than you can click WELCOME so you can get to the next page. On the second welcome page there are three subpages:
-pictures of Atletico Mineiro, youtube videos of Atletico Mineiro, one of the best players who ever played fot Atletico Mineiro.
+pictures of Atletico Mineiro, youtube videos of Atletico Mineiro and one of the best players who ever played fot Atletico Mineiro.
