@@ -1,0 +1,39 @@
+body {
+	background-color: lightgreen;
+}
+
+body h1 {
+	text-align: center;
+	font-size: 60px;
+	font-family: sans-serif;
+	background-color: green;
+	color: yellow;	
+}
+
+.text  {
+	background-color: yellow;
+}
+
+ p.p1 {
+	background-color: green;
+	font-size: 20px;
+	border:1px solid grey;
+	padding: 20px;
+	margin: 30px;
+}
+
+.pictures p {
+	font-size: 15px;
+	font-family: monospace;
+	background-color: yellow;
+	color: green;
+}
+
+#footer {
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: black;
+	color: white;
+	padding: 10px;
+}

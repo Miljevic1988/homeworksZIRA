@@ -1,0 +1,63 @@
+body h2 {
+	font-size: 40px;
+	text-align: left;
+	font-family: monospace;
+	color: white;
+}
+
+body p {
+	font-family: monospace;
+	font-size: 15px;
+}
+
+.pictures1 img{
+	display: inline;
+	margin: 22px;
+
+}
+
+.players {
+	background-color: black;
+}
+
+.players th {
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.players tr td {
+	color: white;
+	text-align: center;
+}
+.links1 {
+	font-size: 30px;
+	color: black;
+}
+
+.links1 li a {
+	color: grey;
+	text-decoration: none;
+}
+.links1 a:hover {
+	background-color: green;
+}
+
+.links2 {
+	font-size: 30px;
+	color: blue;
+}
+
+.links2 li a {
+	color: blue;
+	text-decoration: none;
+}
+
+.links2 a:hover {
+	background-color: white;
+}
+
+#footer {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
